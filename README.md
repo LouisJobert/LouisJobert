@@ -1,4 +1,4 @@
-- 👋 Recruteur bonjour ! 👋
+- 👋 Bonjour ! 👋
 - , I’m @LouisJobert 👋
 - Bienvenue sur ma page GitHub, et merci pour l'interet que vous portez à ma candidature,
 - 👀 I’m interested in ...
