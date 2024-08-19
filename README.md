@@ -1,5 +1,4 @@
 - 👋 Bonjour ! 👋
-- 
 - Bienvenue sur mon GitHub, et merci pour l'intérêt que vous portez à mes travaux,
 - Voici une sélection non exhaustive de travaux et rapports sur différents sujets 👀
 - 👀 I’m interested in ...
