@@ -1,5 +1,5 @@
 - 👋 Bonjour ! 👋
-- , I’m @LouisJobert 👋
+- 
 - Bienvenue sur mon GitHub, et merci pour l'interet que vous portez à mes travaux,
 - Voici une sélection non exhaustive de travaux et rapports sur différents sujets
 - 👀 I’m interested in ...
@@ -8,6 +8,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- @LouisJobert 👋
 
 <!---
 LouisJobert/LouisJobert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
