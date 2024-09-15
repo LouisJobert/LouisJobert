@@ -1,6 +1,6 @@
 - Bonjour ! 👋
 - Bienvenue sur mon GitHub, et merci pour votre intérêt
-- Voici une sélection non exhaustive de travaux ou rapports sur différents sujets
+- Voici une sélection non exhaustive de mes différents travaux
 - Si besoin contactez-moi pour de plus amples détails
 - @LouisJobert
 
